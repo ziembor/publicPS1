@@ -1,0 +1,1 @@
+. $PSScriptRoot\out-speechfx.ps1
