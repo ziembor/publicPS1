@@ -1,4 +1,4 @@
-function Get-GMEMTLastMailByRecipient {
+function Get-ExchangeMTLastMailByRecipient {
 [CmdletBinding()]
   param([string[]]$recipient='username',[int]$howmanydaysago=30 )
   #region initVariables 
